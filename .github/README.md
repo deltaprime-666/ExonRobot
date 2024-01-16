@@ -142,7 +142,7 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 <a href="https://telegram.me/AbishnoiMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/Abishnoi1M"><img src="https://img.shields.io/badge/Abishnoi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/watch_dogs_support"><img src="https://img.shields.io/badge/Abishnoi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 [ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/Abishnoi_bots/43)

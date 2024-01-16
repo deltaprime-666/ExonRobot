@@ -17,7 +17,7 @@
 
 ## ᴄʀᴇᴅɪᴛ ꜰᴏʀ ᴇxᴏɴ ʀᴏʙᴏᴛ
 - [ɢɪᴛʜᴜʙ](https://github.com/Abishnoi69)
-- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/Abishnoi1M)
+- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/watch_dogs_support)
 - [ᴄʜᴀᴛ ɢʀᴏᴜᴘ](https://t.me/AbishnoiMF)
 
 ## ɪɴғᴏ 

@@ -23,7 +23,7 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @Abishnoi1m
+# TG :- @watch_dogs_support
 #     UPDATE   :- Abishnoi_bots
 #     GITHUB :- ABISHNOI69 ""
 
@@ -339,7 +339,7 @@ def info(update: Update, context: CallbackContext):
     elif user.id in WOLVES:
         text += "\n\nThe level for this user is Villain"
         disaster_level_present = True
-    elif user.id == 5938660179:
+    elif user.id == 6184402222:
         text += "\n\nᴄᴏ-ᴏᴡᴇʀɴ ᴏғ ᴀ ʙᴏᴛ."
         disaster_level_present = True
 

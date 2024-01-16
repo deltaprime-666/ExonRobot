@@ -23,7 +23,7 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @Abishnoi1m
+# TG :- @watch_dogs_support
 #     UPDATE   :- Abishnoi_bots
 #     GITHUB :- ABISHNOI69 ""
 
@@ -163,7 +163,7 @@ def ABG_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴀʙɪsʜɴᴏɪ", url="https://t.me/Abishnoi1M"
+                            text="ᴀʙɪsʜɴᴏɪ", url="https://t.me/watch_dogs_support"
                         ),
                         InlineKeyboardButton(
                             text="ᴄʜᴀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
